@@ -2,7 +2,7 @@
 Replica of ganna.com completely developed by me.
 
 
-<a href="https://hkgannaapp.herokuapp.com/"><h1>hkganna.com</h1></a>
+
 
 
 
